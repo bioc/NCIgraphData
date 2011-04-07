@@ -1,0 +1,13 @@
+Package: NCIgraphData
+Title: Data for the NCIgraph software package
+Version: 0.99.1
+Created: 2011-04-01
+Author: Laurent Jacob
+Maintainer: Laurent Jacob <laurent.jacob@gmail.com>
+Description: Provides pathways from the NCI Pathways Database as R graph objects
+License: GPL-3
+LazyData: yes
+Depends: R (>= 2.10.0)
+Suggests: Rgraphviz
+biocViews: Bioinformatics, GraphsAndNetworks
+
