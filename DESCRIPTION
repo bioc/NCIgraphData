@@ -1,6 +1,6 @@
 Package: NCIgraphData
 Title: Data for the NCIgraph software package
-Version: 0.99.8
+Version: 1.0.0
 Created: 2011-04-01
 Author: Laurent Jacob
 Maintainer: Laurent Jacob <laurent.jacob@gmail.com>
